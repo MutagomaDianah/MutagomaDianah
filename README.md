@@ -2,7 +2,7 @@
 - 👀 I’m interested in Travelling
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/mutagomadianah/ 
 
 <!---
 MutagomaDianah/MutagomaDianah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
